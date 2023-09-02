@@ -10,3 +10,5 @@ number = int(input("put integral:"))
 days=int(input("put integral:"))
 c="i had %d apples so i got bellyache for %d days" %(number,days)
 print(c)
+d = "life's too short"
+print(d.find("o"))
